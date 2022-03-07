@@ -1,0 +1,32 @@
+{
+  "collectionName": "components_caracteristicas_competencias",
+  "info": {
+    "displayName": "competencias",
+    "icon": "at",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "titulo1": {
+      "type": "string"
+    },
+    "cantidad": {
+      "type": "integer"
+    },
+    "titulo2": {
+      "type": "string"
+    },
+    "cantidad2": {
+      "type": "integer"
+    },
+    "titulo3": {
+      "type": "string"
+    },
+    "cantidad3": {
+      "type": "integer"
+    },
+    "titulo": {
+      "type": "string"
+    }
+  }
+}

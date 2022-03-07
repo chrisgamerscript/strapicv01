@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_caracteristicas_contactos",
+  "info": {
+    "displayName": "contacto",
+    "icon": "car"
+  },
+  "options": {},
+  "attributes": {
+    "ubicacion": {
+      "type": "string"
+    },
+    "telefono": {
+      "type": "string"
+    },
+    "correo": {
+      "type": "string"
+    },
+    "formularioTitulo": {
+      "type": "string"
+    }
+  }
+}

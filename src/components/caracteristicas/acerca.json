@@ -1,0 +1,31 @@
+{
+  "collectionName": "components_caracteristicas_acercas",
+  "info": {
+    "displayName": "acerca",
+    "icon": "ad"
+  },
+  "options": {},
+  "attributes": {
+    "titulo": {
+      "type": "string"
+    },
+    "descripcion": {
+      "type": "richtext"
+    },
+    "edad": {
+      "type": "string"
+    },
+    "residencia": {
+      "type": "string"
+    },
+    "direccion": {
+      "type": "string"
+    },
+    "email": {
+      "type": "string"
+    },
+    "telefono": {
+      "type": "string"
+    }
+  }
+}

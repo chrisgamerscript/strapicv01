@@ -1,0 +1,38 @@
+{
+  "collectionName": "components_caracteristicas_tareas",
+  "info": {
+    "displayName": "tareas",
+    "icon": "address-card",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "titulo": {
+      "type": "string"
+    },
+    "titulo1": {
+      "type": "string"
+    },
+    "desc1": {
+      "type": "richtext"
+    },
+    "titulo2": {
+      "type": "string"
+    },
+    "desc2": {
+      "type": "richtext"
+    },
+    "titulo3": {
+      "type": "string"
+    },
+    "dec3": {
+      "type": "richtext"
+    },
+    "titulo4": {
+      "type": "string"
+    },
+    "desc4": {
+      "type": "richtext"
+    }
+  }
+}

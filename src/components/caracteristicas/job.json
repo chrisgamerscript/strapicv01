@@ -1,0 +1,47 @@
+{
+  "collectionName": "components_caracteristicas_jobs",
+  "info": {
+    "displayName": "job",
+    "icon": "award",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "titulo1": {
+      "type": "string"
+    },
+    "desc1": {
+      "type": "text"
+    },
+    "lugar1": {
+      "type": "string"
+    },
+    "titulo2": {
+      "type": "string"
+    },
+    "desc2": {
+      "type": "text"
+    },
+    "lugar2": {
+      "type": "string"
+    },
+    "year2": {
+      "type": "string"
+    },
+    "year1": {
+      "type": "string"
+    },
+    "titulo3": {
+      "type": "string"
+    },
+    "desc3": {
+      "type": "string"
+    },
+    "lugar3": {
+      "type": "string"
+    },
+    "year3": {
+      "type": "string"
+    }
+  }
+}

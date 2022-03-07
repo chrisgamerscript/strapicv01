@@ -1,0 +1,65 @@
+{
+  "kind": "collectionType",
+  "collectionName": "cvs",
+  "info": {
+    "singularName": "cv",
+    "pluralName": "cvs",
+    "displayName": "cv",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "nombre": {
+      "type": "string"
+    },
+    "subtitulo": {
+      "type": "string"
+    },
+    "subtitulo2": {
+      "type": "string"
+    },
+    "acerca": {
+      "type": "component",
+      "repeatable": false,
+      "component": "caracteristicas.acerca"
+    },
+    "cliente": {
+      "type": "component",
+      "repeatable": false,
+      "component": "caracteristicas.cliente"
+    },
+    "educacion": {
+      "type": "component",
+      "repeatable": false,
+      "component": "caracteristicas.educacion"
+    },
+    "trabajo": {
+      "type": "component",
+      "repeatable": false,
+      "component": "caracteristicas.job"
+    },
+    "skills": {
+      "type": "component",
+      "repeatable": false,
+      "component": "caracteristicas.skills"
+    },
+    "contacto": {
+      "type": "component",
+      "repeatable": false,
+      "component": "caracteristicas.contacto"
+    },
+    "tareas": {
+      "type": "component",
+      "repeatable": false,
+      "component": "caracteristicas.tareas"
+    },
+    "conocimientos": {
+      "type": "component",
+      "repeatable": false,
+      "component": "caracteristicas.conocimientos"
+    }
+  }
+}

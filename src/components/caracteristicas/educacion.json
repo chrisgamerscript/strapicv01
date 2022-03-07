@@ -1,0 +1,35 @@
+{
+  "collectionName": "components_caracteristicas_educacions",
+  "info": {
+    "displayName": "educacion",
+    "icon": "archive",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "titulo1": {
+      "type": "string"
+    },
+    "desc1": {
+      "type": "richtext"
+    },
+    "lugar1": {
+      "type": "string"
+    },
+    "year1": {
+      "type": "integer"
+    },
+    "titulo2": {
+      "type": "string"
+    },
+    "desc2": {
+      "type": "text"
+    },
+    "lugar2": {
+      "type": "string"
+    },
+    "year2": {
+      "type": "integer"
+    }
+  }
+}

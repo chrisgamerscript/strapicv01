@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_caracteristicas_conocimientos",
+  "info": {
+    "displayName": "conocimientos",
+    "icon": "cloud-download-alt"
+  },
+  "options": {},
+  "attributes": {
+    "titulo": {
+      "type": "string"
+    },
+    "conocimientosLista": {
+      "type": "string"
+    }
+  }
+}

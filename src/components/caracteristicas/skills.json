@@ -1,0 +1,37 @@
+{
+  "collectionName": "components_caracteristicas_skills",
+  "info": {
+    "displayName": "skills",
+    "icon": "check-double"
+  },
+  "options": {},
+  "attributes": {
+    "titulo": {
+      "type": "string"
+    },
+    "titulo1": {
+      "type": "string"
+    },
+    "porcentaje1": {
+      "type": "integer"
+    },
+    "titulo2": {
+      "type": "string"
+    },
+    "porcentaje2": {
+      "type": "integer"
+    },
+    "titulo3": {
+      "type": "string"
+    },
+    "porcentaje3": {
+      "type": "integer"
+    },
+    "titulo4": {
+      "type": "string"
+    },
+    "porcentajr4": {
+      "type": "integer"
+    }
+  }
+}
