@@ -62,11 +62,19 @@
       "component": "caracteristicas.conocimientos"
     },
     "foto": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
       "allowedTypes": [
         "images",
         "files",
         "videos",
         "audios"
+      ]
+    },
+    "hojadevida": {
+      "allowedTypes": [
+        "files"
       ],
       "type": "media",
       "multiple": false

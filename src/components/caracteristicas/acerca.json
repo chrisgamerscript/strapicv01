@@ -2,7 +2,8 @@
   "collectionName": "components_caracteristicas_acercas",
   "info": {
     "displayName": "acerca",
-    "icon": "ad"
+    "icon": "ad",
+    "description": ""
   },
   "options": {},
   "attributes": {
@@ -11,9 +12,6 @@
     },
     "descripcion": {
       "type": "richtext"
-    },
-    "edad": {
-      "type": "string"
     },
     "residencia": {
       "type": "string"
