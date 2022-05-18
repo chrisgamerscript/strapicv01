@@ -73,11 +73,15 @@
       ]
     },
     "hojadevida": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
       "allowedTypes": [
         "files"
-      ],
-      "type": "media",
-      "multiple": false
+      ]
+    },
+    "Linkedin": {
+      "type": "string"
     }
   }
 }
